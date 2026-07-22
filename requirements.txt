@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+gTTS
+Pillow
+ffmpeg-python
